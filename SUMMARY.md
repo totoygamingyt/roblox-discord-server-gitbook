@@ -2,8 +2,9 @@
 
 ## Safe Links <a href="#safe" id="safe"></a>
 
-* [Discord Safe Links](README.md)
-* [Roblox Safe Links](safe/roblox-safe-links.md)
+* [Discord](README.md)
+* [Roblox](safe/roblox.md)
+* [YouTube](safe/youtube.md)
 
 ## Roblox Games Places
 
