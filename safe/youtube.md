@@ -10,4 +10,4 @@ description: >-
 * https://youtu.be/ (Alternative Link, Can be used for shorts.)
 * https://\<subdomain>.youtube.com/ (All subdomain of YouTube is considered safe.)
 * https://yt.be/ (Shorten Link of YouTube)
-*
+

@@ -4,7 +4,7 @@ description: >-
   dangerous!
 ---
 
-# Roblox Safe Links
+# Roblox
 
 * https://roblox.com/ (Main Site)
 * https://www.roblox.com/ (Main Site, >13 Shared Link)
