@@ -6,7 +6,7 @@ description: All places of Pet Simulator X.
 
 Main Game:
 
-* [https://www.roblox.com/games/6284583030/Pet-Simulator-X](https://www.roblox.com/games/6284583030/Pet-Simulator-X) (Main Game)
+* [https://www.roblox.com/games/6284583030/Pet-Simulator-X](https://www.roblox.com/games/6284583030/Pet-Simulator-X)
 
 Sub-Places:
 
